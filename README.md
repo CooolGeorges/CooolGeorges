@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CooolGeorges
 - 👀 I’m interested in scenario modeling
-- 🌱 I’m currently learning javascript and app script
-- 💞️ I’m looking to collaborate on simulation analytics
+- 🌱 I’m currently learning SQL, javascript and app script
+- 💞️ I’m looking to collaborate on big data simulation analytics
 
 
 <!---
